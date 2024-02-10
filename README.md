@@ -37,12 +37,10 @@ Credits
 
 Special thanks to Easy Tutorials for providing guidance and resources.
 
-## Author
-
-Your Name
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feel free to modify this README to include any additional information or customization specific to your portfolio website.
+
+## contact
+
+phone:9042590636
+
+email:har6ihar9an@gmail.com

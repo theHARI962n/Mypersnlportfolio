@@ -39,7 +39,7 @@ Special thanks to Easy Tutorials for providing guidance and resources.
 
 Feel free to modify this README to include any additional information or customization specific to your portfolio website.
 
-## contact
+## Contact
 
 phone:9042590636
 

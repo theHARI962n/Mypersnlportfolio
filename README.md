@@ -30,14 +30,13 @@ Font Awesome (for icons)
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at https://your-username.github.io/your-repository-name.
+The website is deployed using GitHub Pages and can be accessed at 
+https://thehari962n.github.io/Mypersnlportfolio/
 
 
 Credits
 
-Special thanks to Easy Tutorials for providing guidance and resources.
-
-Feel free to modify this README to include any additional information or customization specific to your portfolio website.
+Feel free to modify this README to include any additional information or customization specific to website.
 
 ## Contact
 
